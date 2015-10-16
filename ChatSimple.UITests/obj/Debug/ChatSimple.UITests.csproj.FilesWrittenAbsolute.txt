@@ -1,0 +1,7 @@
+/Users/lhcubillosg/Projects/ChatSimple/ChatSimple.UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/lhcubillosg/Projects/ChatSimple/ChatSimple.UITests/bin/Debug/ChatSimple.UITests.dll.mdb
+/Users/lhcubillosg/Projects/ChatSimple/ChatSimple.UITests/bin/Debug/ChatSimple.UITests.dll
+/Users/lhcubillosg/Projects/ChatSimple/ChatSimple.UITests/obj/Debug/ChatSimple.UITests.dll
+/Users/lhcubillosg/Projects/ChatSimple/ChatSimple.UITests/obj/Debug/ChatSimple.UITests.dll.mdb
+/Users/lhcubillosg/Projects/ChatSimple/ChatSimple.UITests/bin/Debug/nunit.framework.dll
+/Users/lhcubillosg/Projects/ChatSimple/ChatSimple.UITests/bin/Debug/Xamarin.UITest.dll
