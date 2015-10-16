@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="XamarinChat/XamarinChat.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.3" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../../ChatSimple/ChatViewController.cs" Line="39" Column="47" />
+      <File FileName="../../../../ChatSimple/ContactosTableSource.cs" Line="1" Column="1" />
+      <File FileName="../../../../ChatSimple/ContactosViewController.cs" Line="20" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatSimple" expanded="True">
+            <Node name="ChatSimple" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="ContactosViewController.cs" expanded="True" />
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+          <Node name="XamarinChat" expanded="True">
+            <Node name="XamarinChat" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
